@@ -4536,4 +4536,107 @@ p[data-v-ab0c7bc8] {
   min-height: 200px;
 }
 
-/*# sourceMappingURL=app.b9f6d0dc1e6a0d0fc058d75bbcf9a31a.css.map*/
+.container[data-v-33b95620] {
+  margin: 0px auto;
+  height: 100%;
+  width: 100%;
+}
+.campas-logo[data-v-33b95620] {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 0;
+}
+.vux-slider > .vux-swiper[data-v-33b95620] {
+  overflow: auto!important;
+}
+.vux-slider > .vux-swiper > .vux-swiper-item[data-v-33b95620] {
+     overflow: auto!important;
+}
+.campas-header[data-v-33b95620] {
+  margin-bottom: 15px;
+}
+.campas-tab[data-v-33b95620] {
+  padding: 0 15px;
+  height: calc(100% - 165px);
+}
+.vux-tab-item[data-v-33b95620]:first-child {
+  border-radius: 5px 0 0 5px;
+}
+.vux-tab-item[data-v-33b95620]:nth-of-type(even) {
+  border-radius: 0 5px 5px 0;
+}
+.vux-slider[data-v-33b95620] {
+  height: calc(100% - 40px);
+}
+.vux-slider img[data-v-33b95620] {
+    width: 100%;
+    margin: 20px auto;
+}
+.campas-box2 p.red[data-v-33b95620] {
+  color: #d40031;
+  margin-top: 15px;
+  text-indent: 0px;
+}
+p[data-v-33b95620] {
+  font-size: 14px;
+  text-indent: 12px;
+}
+input[type='checkbox'][data-v-33b95620] {
+    vertical-align: middle;
+    margin-right: 5px;
+    height: 16px;
+    width: 16px;
+}
+
+.container[data-v-1ff428e2] {
+  margin: 0px auto;
+  height: 100%;
+  width: 100%;
+}
+.vux-slider > .vux-swiper[data-v-1ff428e2] {
+    overflow-y: auto;
+}
+.campas-logo[data-v-1ff428e2] {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 0;
+}
+.campas-header[data-v-1ff428e2] {
+  margin-bottom: 15px;
+}
+.campas-tab[data-v-1ff428e2] {
+  padding: 0 15px;
+  height: calc(100% - 165px);
+}
+.vux-tab-item[data-v-1ff428e2]:first-child {
+  border-radius: 5px 0 0 5px;
+}
+.vux-tab-item[data-v-1ff428e2]:nth-of-type(even) {
+  border-radius: 0 5px 5px 0;
+}
+.vux-slider[data-v-1ff428e2] {
+  height: calc(100% - 40px);
+}
+.vux-slider img[data-v-1ff428e2] {
+    width: 100%;
+    margin: 20px auto;
+}
+.campas-box2 p.red[data-v-1ff428e2] {
+  color: #d40031;
+  margin-top: 15px;
+  text-indent: 0px;
+}
+p[data-v-1ff428e2] {
+  font-size: 14px;
+  text-indent: 12px;
+}
+input[type='checkbox'][data-v-1ff428e2] {
+    vertical-align: middle;
+    margin-right: 5px;
+    height: 16px;
+    width: 16px;
+}
+
+/*# sourceMappingURL=app.669048c8fbfcda3f44d7aed682303ba0.css.map*/
