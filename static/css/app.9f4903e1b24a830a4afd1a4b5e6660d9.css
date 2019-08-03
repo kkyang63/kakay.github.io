@@ -4295,34 +4295,34 @@ p[data-v-ab0c7bc8] {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.vux-center[data-v-bf05d868] {
+.vux-center[data-v-393d4fbc] {
   height: 96%;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
 }
-.vux-center-box[data-v-bf05d868] {
+.vux-center-box[data-v-393d4fbc] {
   height: 100%;
 }
-.floor-box[data-v-bf05d868] {
+.floor-box[data-v-393d4fbc] {
   width: 92%;
   margin: 30px auto;
 }
-.floor-box img[data-v-bf05d868]{
+.floor-box img[data-v-393d4fbc]{
   width: 100%;
   display: block;
   margin: 0;
   border: 0;
 }
-.univer-list[data-v-bf05d868] {
+.univer-list[data-v-393d4fbc] {
   /* padding: 20px; */
 }
-.univer-list li[data-v-bf05d868] {
+.univer-list li[data-v-393d4fbc] {
   line-height: 26px;
   font-size: 14px;
   color: #333333;
   text-indent: 20px;
   list-style: none;
 }
-.univer-list li span[data-v-bf05d868]{
+.univer-list li span[data-v-393d4fbc]{
   line-height: 30px;
   font-size: 14px;
   color: #D40031;
@@ -4781,4 +4781,4 @@ input[type='checkbox'][data-v-68ba258f] {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/*# sourceMappingURL=app.d1adecf715cfdd5ad24a81059cbd1750.css.map*/
+/*# sourceMappingURL=app.9f4903e1b24a830a4afd1a4b5e6660d9.css.map*/
