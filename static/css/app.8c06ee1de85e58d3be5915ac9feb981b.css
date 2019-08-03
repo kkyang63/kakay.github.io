@@ -4055,31 +4055,31 @@ p[data-v-ab0c7bc8] {
   border-top: 1px solid #E5E5E5;
 }
 
-.container[data-v-87e3b2b2] {
+.container[data-v-0f78decc] {
   margin: 0px auto;
   height: 100%;
   width: 100%;
 }
-.campas-logo[data-v-87e3b2b2] {
+.campas-logo[data-v-0f78decc] {
   width: 100%;
   height: auto;
   display: block;
   border: 0;
 }
-.campas-header[data-v-87e3b2b2] {
+.campas-header[data-v-0f78decc] {
   margin-bottom: 15px;
 }
-.campas-tab[data-v-87e3b2b2] {
+.campas-tab[data-v-0f78decc] {
   padding: 0 15px;
   height: calc(100% - 165px);
 }
-.vux-tab-item[data-v-87e3b2b2]:first-child {
+.vux-tab-item[data-v-0f78decc]:first-child {
   border-radius: 5px 0 0 5px;
 }
-.vux-tab-item[data-v-87e3b2b2]:nth-of-type(even) {
+.vux-tab-item[data-v-0f78decc]:nth-of-type(even) {
   border-radius: 0 5px 5px 0;
 }
-.campas-box2 p[data-v-87e3b2b2]{
+.campas-box2 p[data-v-0f78decc]{
   cursor: pointer;
   padding: 10px;
   border-bottom: 1px solid #E4E4E4;
@@ -4087,20 +4087,20 @@ p[data-v-ab0c7bc8] {
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif
 }
-.campas-box2 p[data-v-87e3b2b2]:last-child {
+.campas-box2 p[data-v-0f78decc]:last-child {
   border: none
 }
-.vux-slider[data-v-87e3b2b2] {
+.vux-slider[data-v-0f78decc] {
   height: calc(100% - 40px);
 }
 /* seach */
-.search[data-v-87e3b2b2] {
+.search[data-v-0f78decc] {
   height: 42px;
   display: flex;
   width: 92%;
   margin: 10px auto;
 }
-.search input[data-v-87e3b2b2] {
+.search input[data-v-0f78decc] {
     height: 42px;
     border: 1px solid #cccccc;
     outline: none;
@@ -4111,7 +4111,7 @@ p[data-v-ab0c7bc8] {
     width: calc(100% - 92px);
     border-radius:8px 0  0  8px;
 }
-.search span[data-v-87e3b2b2] {
+.search span[data-v-0f78decc] {
     display: inline-block;
     width: 60px;
     height: 44px;
@@ -4121,7 +4121,7 @@ p[data-v-ab0c7bc8] {
     background: #999999;
     border-radius: 0 8px 8px 0;
 }
-.search span[data-v-87e3b2b2]:hover {
+.search span[data-v-0f78decc]:hover {
     background: #D40031;
     cursor: pointer;
 }
@@ -4781,4 +4781,4 @@ input[type='checkbox'][data-v-68ba258f] {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/*# sourceMappingURL=app.6d805e1a4fb985d4e952bb6e878add60.css.map*/
+/*# sourceMappingURL=app.8c06ee1de85e58d3be5915ac9feb981b.css.map*/
